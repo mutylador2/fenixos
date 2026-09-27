@@ -2,7 +2,7 @@
 
 **Sistema operativo x86_64 completo construido desde cero** — sin Linux, sin GRUB, sin código ajeno: bootloader propio en ensamblador con **menú multiboot**, kernel 64-bit en C, pila TCP/IP propia, usuarios y roles, **instalador gráfico que convive con Windows/Linux**, interfaz gráfica, navegador web y lenguaje de programación interno. Arquitectura por capas inspirada en el diseño de Windows (HAL → Kernel → Executive → Subsistemas) con identidad y diseño totalmente propios.
 
-![Información del sistema](capturas/33-sistema-info.png)
+![Información del sistema](33-sistema-info.png)
 
 ---
 
